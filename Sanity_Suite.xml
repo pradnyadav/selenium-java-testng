@@ -1,0 +1,16 @@
+<suite name="StudySanity">
+    <test name="SanityTest">
+                <listeners>
+                    <listener class-name="Utilities.MyListener"/>
+                </listeners>
+        <groups>
+            <run>
+                <include name="Sanity"/>
+            </run>
+        </groups>
+        <classes>
+<!--            <class name="DashboardTests" />-->
+            <class name="LoginTest" />
+        </classes>
+    </test>
+</suite>

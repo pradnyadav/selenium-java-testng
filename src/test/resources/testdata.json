@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://example.com",
+  "username": "Admin",
+  "password": "admin123",
+  "timeout": 10,
+  "expected_message": "No Leave Types with Leave Balance",
+  "fullNameInput": "Pradnya Nishant Kolte",
+  "emailInput" : "asafsa@gmail.com",
+  "currentAddressInput":"63 Paul Wayne Haggerty Road,Metairie LA 70006",
+  "permanentAddressInput": "63 Paul Wayne Haggerty Road,Metairie LA 70006",
+  "emailRegex": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$"
+}
